@@ -1,0 +1,5 @@
+:root { color-scheme: dark; font-family: "Segoe UI", "Yu Gothic UI", sans-serif; background: #101820; color: #e9f0f2; }
+body { min-height: 100vh; margin: 0; display: grid; place-items: center; }
+main { width: min(42rem, calc(100% - 3rem)); padding: 2.5rem; border: 1px solid #31434b; border-radius: 1.25rem; background: #17252d; box-shadow: 0 1.5rem 5rem #07101480; }
+p { color: #b5c8cf; line-height: 1.8; }
+.eyebrow { color: #63d6c6; letter-spacing: .12em; text-transform: uppercase; font-size: .8rem; }

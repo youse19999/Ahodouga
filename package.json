@@ -1,0 +1,8 @@
+{
+  "name": "ahodouga",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@11.25.0",
+  "scripts": { "dev": "tauri dev", "build": "tauri build" },
+  "devDependencies": { "@tauri-apps/cli": "2.12.4" }
+}
